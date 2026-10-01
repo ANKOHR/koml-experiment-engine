@@ -1,0 +1,6 @@
+KOML Experiment Engine build complete
+Test count: 31 passed (pytest, 0.28 seconds).
+Local implementation commit: d06d2aedf564df1f7d2ec6bf8146ea09a1559a2a
+This hash identifies the tested implementation and evidence; this completion record is committed separately to avoid a self-referential commit hash.
+
+Built a deterministic, CPU-only Python kee2 CLI with fixtures, run, report, hypothesis and belief commands; pure validated domain logic; exact rational acceptance rates and Beta-Bernoulli belief updates; labelled 200-record synthetic fixtures and independent hand-computed expectations; a five-record example; Markdown and JSON reports with explicit provenance and honesty limits; atomic file writes and named errors; adversarial and end-to-end tests; complete input and operating documentation; and lessons and a pending two-week review. The installed CLI demo completed in 0.651391 seconds, with JSON report rendering separately measured at 0.2160836 seconds. All synthetic totals reconcile and planted accepted cases match exactly with zero false positives. Real-use outcomes and final operational verdict remain unmeasured pending the specified review. No publishing was performed.
